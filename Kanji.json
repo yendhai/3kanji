@@ -93,7 +93,7 @@
   { "id": "245", "kanji": "不快", "question": "Apa arti kanji ini?", "options": ["Tidak nyaman - ふかい", "Nyaman - らく", "Gelisah - しんぱい", "Cemas - ゆううつ"], "answer": 0, "kategori": "kata_sifat" },
   { "id": "246", "kanji": "馬鹿", "question": "Apa arti kanji ini?", "options": ["Bodoh - ばか", "Pintar - かしこい", "Cerdas - そうめい", "Pandai - すぐれる"], "answer": 0, "kategori": "kata_sifat" },
   { "id": "247", "kanji": "硬い", "question": "Apa arti kanji ini?", "options": ["Kaku - かたい", "Lentur - しなやか", "Lemah - よわい", "Kuat - つよい"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": "248", "kanji": "近い", "question": "Apa arti kanji ini?", "options": ["Dekat - ちかい", "Jauh - とおい", "Sedang - ちょうど", "Pas - ぴったり"], "answer": 0, "kategori": "kata_sifat" }
+  { "id": "248", "kanji": "近い", "question": "Apa arti kanji ini?", "options": ["Dekat - ちかい", "Jauh - とおい", "Sedang - ちょうど", "Pas - ぴったり"], "answer": 0, "kategori": "kata_sifat" },
 
   { "id": "249", "kanji": "遠い", "question": "Apa arti kanji ini?", "options": ["Jauh - とおい", "Dekat - ちかい", "Cepat - はやい", "Lambat - おそい"], "answer": 0, "kategori": "kata_sifat" },
   { "id": "250", "kanji": "速い", "question": "Apa arti kanji ini?", "options": ["Cepat (gerakan) - はやい", "Lambat - おそい", "Banyak - おおい", "Sedikit - すくない"], "answer": 1, "kategori": "kata_sifat" },
@@ -142,7 +142,7 @@
   { "id": "293", "kanji": "上品", "question": "Apa arti kanji ini?", "options": ["Sopan elegan - じょうひん", "Kurang ajar - しつれい", "Santun biasa - ていねい", "Beradab - ぶんめい"], "answer": 0, "kategori": "kata_sifat" },
   { "id": "294", "kanji": "失礼", "question": "Apa arti kanji ini?", "options": ["Kurang ajar - しつれい", "Sopan santun - れいぎ", "Santun - ていねい", "Beradab - みやび"], "answer": 0, "kategori": "kata_sifat" },
   { "id": "295", "kanji": "強い", "question": "Apa arti kanji ini?", "options": ["Kuat - つよい", "Lemah - よわい", "Keras - かたい", "Lunak - やわらかい"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": "296", "kanji": "弱い", "question": "Apa arti kanji ini?", "options": ["Lemah - よわい", "Kuat - つよい", "Rapuh - もろい", "Tahan - たいりょく"], "answer": 0, "kategori": "kata_sifat" }
+  { "id": "296", "kanji": "弱い", "question": "Apa arti kanji ini?", "options": ["Lemah - よわい", "Kuat - つよい", "Rapuh - もろい", "Tahan - たいりょく"], "answer": 0, "kategori": "kata_sifat" },
 
   { "id": "297", "kanji": "特別", "question": "Apa arti kanji ini?", "options": ["Khusus - とくべつ", "Biasa - ふつう", "Umum - いっぱん", "Normal - ノーマル"], "answer": 0, "kategori": "kata_sifat" },
   { "id": "298", "kanji": "なめらか", "question": "Apa arti kata ini?", "options": ["halus", "Kasar", "Bersih", "Kotor"], "answer": 0, "kategori": "kata_sifat" },
@@ -168,7 +168,7 @@
   { "id": "2118", "kanji": "まぶしい", "question": "Apa arti kata ini?", "options": ["Silau", "Gelap", "Redup", "Suram"], "answer": 0, "kategori": "kata_sifat" },
   { "id": "2119", "kanji": "辛い", "question": "Apa arti kanji ini?", "options": ["Berat perasaan - つらい", "Ringan hati - きがかるい", "Kejam parah - ひどい", "Lemas badan - だるい"], "answer": 0, "kategori": "kata_sifat" },
   { "id": "2120", "kanji": "ひどい", "question": "Apa arti kata ini?", "options": ["Parah", "Ringan", "Sedang", "Biasa"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": "2121", "kanji": "だるい", "question": "Apa arti kata ini?", "options": ["Lemas", "Segar", "Bugar", "Energik"], "answer": 0, "kategori": "kata_sifat" }
+  { "id": "2121", "kanji": "だるい", "question": "Apa arti kata ini?", "options": ["Lemas", "Segar", "Bugar", "Energik"], "answer": 0, "kategori": "kata_sifat" },
 
   { "id": 31, "kanji": "山", "question": "Apa arti kanji ini?", "options": ["Sungai", "Gunung", "Sawah", "Laut"], "answer": 1, "kategori": "kata_benda" },
   { "id": 32, "kanji": "川", "question": "Apa arti kanji ini?", "options": ["Gunung", "Jalan", "Sungai", "Langit"], "answer": 2, "kategori": "kata_benda" },
